@@ -1,12 +1,8 @@
-import React from 'react'
-import Editor from './components/Editor'
+import React from "react"
 
 const App: React.FC = () => {
   return (
-    <div>
-      <Editor />
-      <h1>Hewwo</h1>
-    </div>
+    <div>App</div>
   )
 }
 
